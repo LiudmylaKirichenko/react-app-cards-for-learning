@@ -3,6 +3,7 @@
   --text-color: #fff;
   --btn-text-color: #383b3f;
   --btn-bg-color: #fff;
+  --card-bg-color: #343a46;
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -43,6 +44,7 @@ body {
     --text-color: #000;
     --btn-text-color: #16444f;
     --btn-bg-color: #57c4dc;
+    --card-bg-color: #ebedf0;
   }
 }
 
@@ -52,5 +54,6 @@ body {
     --text-color: #fff;
     --btn-text-color: #383b3f;
     --btn-bg-color: #fff;
+    --card-bg-color: #343a46;
   }
 }
